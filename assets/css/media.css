@@ -1,0 +1,13 @@
+@media (max-width: 767px) {
+    [class*="col-"] {
+        max-width: 100%;
+        flex:none;
+    }
+    #photosbox .col-12 {
+	display: block;
+	}
+	#about {
+	display: block;
+	}
+}
+

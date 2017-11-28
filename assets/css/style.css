@@ -1,0 +1,60 @@
+header {
+  width: 100%;
+	/*border: 1px solid cyan;*/
+  background-color: #1B1821;
+}
+
+.headertext, .footertext {
+  color: #FFF;
+}
+.navLinks {
+	list-style: none;
+}
+
+.navLinks li {
+	display: inline-flex;
+	padding: 5px;
+}
+
+#title {
+  width: 100%;
+  height: 25rem; /*400px*/
+  background-image: url(../img/tejidos.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#title h1 {
+  padding: 6.25rem;
+  color: #E4DBDE;
+}
+
+#about {
+	display: inline-flex;
+}
+
+.contact p {
+  line-height: 0.938rem
+}
+
+.buttonAction {
+  background-color: #6D883B;
+  padding: 10px;
+  border-radius: 5px;
+  color: #FFF;
+}
+
+#photosbox .col-12 {
+	display: inline-flex;
+}
+
+.photos {
+	width: 300px;
+	padding: 0px 20px;
+}
+
+
+footer {
+  background-color: #000;
+  color: #FFF;
+}
