@@ -6,6 +6,10 @@ header {
   background-color: #1B1821;
 }
 
+.links {
+  text-decoration: none;
+}
+
 /* color de la tipografía usadas es header y en footer */
 .headertext, .footertext {
   color: #FFF;
